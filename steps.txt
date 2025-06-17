@@ -1,0 +1,7 @@
+# steps to push this file on github
+# 1st craete a repo on git hub with the proiject name and copy link
+# 2nd git init command in terminal to initaialize the repo
+# 3rd go to view-> command palette and search for git add remote and paste the link their
+# 4th enter remote name of repo
+# 5th enter the message and commit changes
+# 6th click the upload button at the bottom left corner and refresh your repo on github to see changes.
